@@ -1,0 +1,6 @@
+issue_id,entity_type,record_id,issue_type,expected_decision,description,original_value,injected_value,related_record_id
+ANOM-2026-001,Application,APP-CAND-003473-REQ-2026-000140,INVALID_STAGE_TRANSITION,REJECT,Candidate moved directly from APPLIED to TECHNICAL,APPLIED,TECHNICAL,
+ANOM-2026-002,Interview,INT-2026-002002,INTERVIEWER_DOUBLE_BOOKED,FLAG_CONFLICT,Two interviews use the same panel at overlapping times,No conflicting interview,2026-12-03 14:00-15:00,INT-2026-000007
+ANOM-2026-003,Offer,OFF-2026-000002,OFFER_ABOVE_BAND,ESCALATE,Offered salary exceeds the approved maximum,11.47,13,
+ANOM-2026-004,Application,APP-CAND-000776-REQ-2026-000067,WITHDRAWN_CANDIDATE_SCHEDULED,CANCEL_INTERVIEW,Withdrawn candidate still has a scheduled interview,SELECTED,WITHDRAWN,INT-2026-000007
+ANOM-2026-005,Scorecard,SCORE-INT-2026-000004-MGR-0039,IRRELEVANT_EVALUATION_CRITERION,REJECT_SCORECARD,Cooking skills is irrelevant to the technical evaluation,No cooking_skills criterion,cooking_skills:5,

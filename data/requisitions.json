@@ -1,0 +1,2002 @@
+[
+    {
+        "requisition_id":"REQ-2026-000001",
+        "manager_id":"MGR-0028",
+        "job_title":"Java Developer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":9,
+        "created_date":"2026-06-04"
+    },
+    {
+        "requisition_id":"REQ-2026-000002",
+        "manager_id":"MGR-0025",
+        "job_title":"Cloud Engineer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":8,
+        "created_date":"2026-06-24"
+    },
+    {
+        "requisition_id":"REQ-2026-000003",
+        "manager_id":"MGR-0024",
+        "job_title":"Python Developer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":9,
+        "created_date":"2026-08-15"
+    },
+    {
+        "requisition_id":"REQ-2026-000004",
+        "manager_id":"MGR-0001",
+        "job_title":"Python Developer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":9,
+        "created_date":"2026-07-01"
+    },
+    {
+        "requisition_id":"REQ-2026-000005",
+        "manager_id":"MGR-0037",
+        "job_title":"Java Developer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":8,
+        "created_date":"2026-10-17"
+    },
+    {
+        "requisition_id":"REQ-2026-000006",
+        "manager_id":"MGR-0048",
+        "job_title":"Cloud Engineer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":8,
+        "created_date":"2026-11-03"
+    },
+    {
+        "requisition_id":"REQ-2026-000007",
+        "manager_id":"MGR-0050",
+        "job_title":"Cloud Engineer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":11,
+        "created_date":"2026-06-13"
+    },
+    {
+        "requisition_id":"REQ-2026-000008",
+        "manager_id":"MGR-0003",
+        "job_title":"Data Analyst",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":9,
+        "created_date":"2026-08-02"
+    },
+    {
+        "requisition_id":"REQ-2026-000009",
+        "manager_id":"MGR-0020",
+        "job_title":"Cloud Engineer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":12,
+        "created_date":"2026-11-08"
+    },
+    {
+        "requisition_id":"REQ-2026-000010",
+        "manager_id":"MGR-0043",
+        "job_title":"AI Engineer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":10,
+        "created_date":"2026-08-06"
+    },
+    {
+        "requisition_id":"REQ-2026-000011",
+        "manager_id":"MGR-0030",
+        "job_title":"Python Developer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":10,
+        "created_date":"2026-07-26"
+    },
+    {
+        "requisition_id":"REQ-2026-000012",
+        "manager_id":"MGR-0038",
+        "job_title":"Cloud Engineer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":12,
+        "created_date":"2026-06-21"
+    },
+    {
+        "requisition_id":"REQ-2026-000013",
+        "manager_id":"MGR-0050",
+        "job_title":"Python Developer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":10,
+        "created_date":"2026-11-05"
+    },
+    {
+        "requisition_id":"REQ-2026-000014",
+        "manager_id":"MGR-0028",
+        "job_title":"Python Developer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":10,
+        "created_date":"2026-10-06"
+    },
+    {
+        "requisition_id":"REQ-2026-000015",
+        "manager_id":"MGR-0043",
+        "job_title":"Data Analyst",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":12,
+        "created_date":"2026-07-30"
+    },
+    {
+        "requisition_id":"REQ-2026-000016",
+        "manager_id":"MGR-0036",
+        "job_title":"Cloud Engineer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":11,
+        "created_date":"2026-07-19"
+    },
+    {
+        "requisition_id":"REQ-2026-000017",
+        "manager_id":"MGR-0018",
+        "job_title":"AI Engineer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":11,
+        "created_date":"2026-09-10"
+    },
+    {
+        "requisition_id":"REQ-2026-000018",
+        "manager_id":"MGR-0036",
+        "job_title":"Cloud Engineer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":10,
+        "created_date":"2026-07-14"
+    },
+    {
+        "requisition_id":"REQ-2026-000019",
+        "manager_id":"MGR-0012",
+        "job_title":"Data Analyst",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":11,
+        "created_date":"2026-10-20"
+    },
+    {
+        "requisition_id":"REQ-2026-000020",
+        "manager_id":"MGR-0033",
+        "job_title":"AI Engineer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":8,
+        "created_date":"2026-05-25"
+    },
+    {
+        "requisition_id":"REQ-2026-000021",
+        "manager_id":"MGR-0003",
+        "job_title":"Java Developer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":10,
+        "created_date":"2026-05-25"
+    },
+    {
+        "requisition_id":"REQ-2026-000022",
+        "manager_id":"MGR-0044",
+        "job_title":"Cloud Engineer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":8,
+        "created_date":"2026-06-03"
+    },
+    {
+        "requisition_id":"REQ-2026-000023",
+        "manager_id":"MGR-0048",
+        "job_title":"Java Developer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":12,
+        "created_date":"2026-09-19"
+    },
+    {
+        "requisition_id":"REQ-2026-000024",
+        "manager_id":"MGR-0010",
+        "job_title":"Data Analyst",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":12,
+        "created_date":"2026-09-16"
+    },
+    {
+        "requisition_id":"REQ-2026-000025",
+        "manager_id":"MGR-0047",
+        "job_title":"Python Developer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":12,
+        "created_date":"2026-08-12"
+    },
+    {
+        "requisition_id":"REQ-2026-000026",
+        "manager_id":"MGR-0037",
+        "job_title":"AI Engineer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":11,
+        "created_date":"2026-08-24"
+    },
+    {
+        "requisition_id":"REQ-2026-000027",
+        "manager_id":"MGR-0022",
+        "job_title":"Python Developer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":12,
+        "created_date":"2026-06-28"
+    },
+    {
+        "requisition_id":"REQ-2026-000028",
+        "manager_id":"MGR-0044",
+        "job_title":"Data Analyst",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":10,
+        "created_date":"2026-08-16"
+    },
+    {
+        "requisition_id":"REQ-2026-000029",
+        "manager_id":"MGR-0047",
+        "job_title":"AI Engineer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":12,
+        "created_date":"2026-06-09"
+    },
+    {
+        "requisition_id":"REQ-2026-000030",
+        "manager_id":"MGR-0030",
+        "job_title":"Python Developer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":8,
+        "created_date":"2026-05-27"
+    },
+    {
+        "requisition_id":"REQ-2026-000031",
+        "manager_id":"MGR-0010",
+        "job_title":"Data Analyst",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":11,
+        "created_date":"2026-07-10"
+    },
+    {
+        "requisition_id":"REQ-2026-000032",
+        "manager_id":"MGR-0005",
+        "job_title":"Python Developer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":9,
+        "created_date":"2026-10-16"
+    },
+    {
+        "requisition_id":"REQ-2026-000033",
+        "manager_id":"MGR-0010",
+        "job_title":"Java Developer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":9,
+        "created_date":"2026-06-19"
+    },
+    {
+        "requisition_id":"REQ-2026-000034",
+        "manager_id":"MGR-0048",
+        "job_title":"Java Developer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":10,
+        "created_date":"2026-10-07"
+    },
+    {
+        "requisition_id":"REQ-2026-000035",
+        "manager_id":"MGR-0004",
+        "job_title":"Python Developer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":11,
+        "created_date":"2026-08-16"
+    },
+    {
+        "requisition_id":"REQ-2026-000036",
+        "manager_id":"MGR-0034",
+        "job_title":"Data Analyst",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":8,
+        "created_date":"2026-08-16"
+    },
+    {
+        "requisition_id":"REQ-2026-000037",
+        "manager_id":"MGR-0019",
+        "job_title":"Data Analyst",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":11,
+        "created_date":"2026-08-07"
+    },
+    {
+        "requisition_id":"REQ-2026-000038",
+        "manager_id":"MGR-0028",
+        "job_title":"AI Engineer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":8,
+        "created_date":"2026-07-26"
+    },
+    {
+        "requisition_id":"REQ-2026-000039",
+        "manager_id":"MGR-0039",
+        "job_title":"Data Analyst",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":12,
+        "created_date":"2026-07-31"
+    },
+    {
+        "requisition_id":"REQ-2026-000040",
+        "manager_id":"MGR-0047",
+        "job_title":"Data Analyst",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":12,
+        "created_date":"2026-07-17"
+    },
+    {
+        "requisition_id":"REQ-2026-000041",
+        "manager_id":"MGR-0030",
+        "job_title":"Python Developer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":12,
+        "created_date":"2026-05-27"
+    },
+    {
+        "requisition_id":"REQ-2026-000042",
+        "manager_id":"MGR-0034",
+        "job_title":"Python Developer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":8,
+        "created_date":"2026-09-08"
+    },
+    {
+        "requisition_id":"REQ-2026-000043",
+        "manager_id":"MGR-0043",
+        "job_title":"Cloud Engineer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":9,
+        "created_date":"2026-06-28"
+    },
+    {
+        "requisition_id":"REQ-2026-000044",
+        "manager_id":"MGR-0036",
+        "job_title":"Cloud Engineer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":9,
+        "created_date":"2026-08-30"
+    },
+    {
+        "requisition_id":"REQ-2026-000045",
+        "manager_id":"MGR-0037",
+        "job_title":"AI Engineer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":12,
+        "created_date":"2026-06-12"
+    },
+    {
+        "requisition_id":"REQ-2026-000046",
+        "manager_id":"MGR-0018",
+        "job_title":"Cloud Engineer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":8,
+        "created_date":"2026-08-30"
+    },
+    {
+        "requisition_id":"REQ-2026-000047",
+        "manager_id":"MGR-0036",
+        "job_title":"Cloud Engineer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":10,
+        "created_date":"2026-10-02"
+    },
+    {
+        "requisition_id":"REQ-2026-000048",
+        "manager_id":"MGR-0009",
+        "job_title":"AI Engineer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":8,
+        "created_date":"2026-06-28"
+    },
+    {
+        "requisition_id":"REQ-2026-000049",
+        "manager_id":"MGR-0009",
+        "job_title":"Cloud Engineer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":12,
+        "created_date":"2026-07-30"
+    },
+    {
+        "requisition_id":"REQ-2026-000050",
+        "manager_id":"MGR-0012",
+        "job_title":"AI Engineer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":10,
+        "created_date":"2026-08-23"
+    },
+    {
+        "requisition_id":"REQ-2026-000051",
+        "manager_id":"MGR-0025",
+        "job_title":"Data Analyst",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":8,
+        "created_date":"2026-09-01"
+    },
+    {
+        "requisition_id":"REQ-2026-000052",
+        "manager_id":"MGR-0013",
+        "job_title":"Python Developer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":11,
+        "created_date":"2026-08-13"
+    },
+    {
+        "requisition_id":"REQ-2026-000053",
+        "manager_id":"MGR-0023",
+        "job_title":"Java Developer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":9,
+        "created_date":"2026-10-11"
+    },
+    {
+        "requisition_id":"REQ-2026-000054",
+        "manager_id":"MGR-0022",
+        "job_title":"Cloud Engineer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":11,
+        "created_date":"2026-05-29"
+    },
+    {
+        "requisition_id":"REQ-2026-000055",
+        "manager_id":"MGR-0006",
+        "job_title":"Cloud Engineer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":8,
+        "created_date":"2026-08-01"
+    },
+    {
+        "requisition_id":"REQ-2026-000056",
+        "manager_id":"MGR-0044",
+        "job_title":"Cloud Engineer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":11,
+        "created_date":"2026-08-22"
+    },
+    {
+        "requisition_id":"REQ-2026-000057",
+        "manager_id":"MGR-0002",
+        "job_title":"AI Engineer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":10,
+        "created_date":"2026-10-05"
+    },
+    {
+        "requisition_id":"REQ-2026-000058",
+        "manager_id":"MGR-0036",
+        "job_title":"AI Engineer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":11,
+        "created_date":"2026-09-03"
+    },
+    {
+        "requisition_id":"REQ-2026-000059",
+        "manager_id":"MGR-0018",
+        "job_title":"Python Developer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":9,
+        "created_date":"2026-08-24"
+    },
+    {
+        "requisition_id":"REQ-2026-000060",
+        "manager_id":"MGR-0034",
+        "job_title":"Cloud Engineer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":9,
+        "created_date":"2026-11-04"
+    },
+    {
+        "requisition_id":"REQ-2026-000061",
+        "manager_id":"MGR-0010",
+        "job_title":"Python Developer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":10,
+        "created_date":"2026-06-01"
+    },
+    {
+        "requisition_id":"REQ-2026-000062",
+        "manager_id":"MGR-0007",
+        "job_title":"AI Engineer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":12,
+        "created_date":"2026-06-21"
+    },
+    {
+        "requisition_id":"REQ-2026-000063",
+        "manager_id":"MGR-0036",
+        "job_title":"Cloud Engineer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":9,
+        "created_date":"2026-10-25"
+    },
+    {
+        "requisition_id":"REQ-2026-000064",
+        "manager_id":"MGR-0025",
+        "job_title":"Python Developer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":10,
+        "created_date":"2026-06-02"
+    },
+    {
+        "requisition_id":"REQ-2026-000065",
+        "manager_id":"MGR-0003",
+        "job_title":"Cloud Engineer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":10,
+        "created_date":"2026-05-30"
+    },
+    {
+        "requisition_id":"REQ-2026-000066",
+        "manager_id":"MGR-0011",
+        "job_title":"AI Engineer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":12,
+        "created_date":"2026-11-09"
+    },
+    {
+        "requisition_id":"REQ-2026-000067",
+        "manager_id":"MGR-0004",
+        "job_title":"AI Engineer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":8,
+        "created_date":"2026-09-23"
+    },
+    {
+        "requisition_id":"REQ-2026-000068",
+        "manager_id":"MGR-0007",
+        "job_title":"AI Engineer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":10,
+        "created_date":"2026-09-04"
+    },
+    {
+        "requisition_id":"REQ-2026-000069",
+        "manager_id":"MGR-0043",
+        "job_title":"AI Engineer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":10,
+        "created_date":"2026-11-10"
+    },
+    {
+        "requisition_id":"REQ-2026-000070",
+        "manager_id":"MGR-0046",
+        "job_title":"Python Developer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":12,
+        "created_date":"2026-08-13"
+    },
+    {
+        "requisition_id":"REQ-2026-000071",
+        "manager_id":"MGR-0018",
+        "job_title":"Data Analyst",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":12,
+        "created_date":"2026-05-23"
+    },
+    {
+        "requisition_id":"REQ-2026-000072",
+        "manager_id":"MGR-0004",
+        "job_title":"Data Analyst",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":8,
+        "created_date":"2026-10-05"
+    },
+    {
+        "requisition_id":"REQ-2026-000073",
+        "manager_id":"MGR-0022",
+        "job_title":"Data Analyst",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":8,
+        "created_date":"2026-10-11"
+    },
+    {
+        "requisition_id":"REQ-2026-000074",
+        "manager_id":"MGR-0015",
+        "job_title":"Java Developer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":8,
+        "created_date":"2026-06-29"
+    },
+    {
+        "requisition_id":"REQ-2026-000075",
+        "manager_id":"MGR-0033",
+        "job_title":"Python Developer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":8,
+        "created_date":"2026-09-01"
+    },
+    {
+        "requisition_id":"REQ-2026-000076",
+        "manager_id":"MGR-0021",
+        "job_title":"AI Engineer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":9,
+        "created_date":"2026-09-21"
+    },
+    {
+        "requisition_id":"REQ-2026-000077",
+        "manager_id":"MGR-0018",
+        "job_title":"Cloud Engineer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":11,
+        "created_date":"2026-08-31"
+    },
+    {
+        "requisition_id":"REQ-2026-000078",
+        "manager_id":"MGR-0040",
+        "job_title":"Cloud Engineer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":11,
+        "created_date":"2026-09-26"
+    },
+    {
+        "requisition_id":"REQ-2026-000079",
+        "manager_id":"MGR-0035",
+        "job_title":"AI Engineer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":10,
+        "created_date":"2026-07-15"
+    },
+    {
+        "requisition_id":"REQ-2026-000080",
+        "manager_id":"MGR-0031",
+        "job_title":"Python Developer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":8,
+        "created_date":"2026-06-16"
+    },
+    {
+        "requisition_id":"REQ-2026-000081",
+        "manager_id":"MGR-0001",
+        "job_title":"Data Analyst",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":10,
+        "created_date":"2026-09-02"
+    },
+    {
+        "requisition_id":"REQ-2026-000082",
+        "manager_id":"MGR-0050",
+        "job_title":"Data Analyst",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":8,
+        "created_date":"2026-07-20"
+    },
+    {
+        "requisition_id":"REQ-2026-000083",
+        "manager_id":"MGR-0031",
+        "job_title":"Python Developer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":10,
+        "created_date":"2026-07-03"
+    },
+    {
+        "requisition_id":"REQ-2026-000084",
+        "manager_id":"MGR-0002",
+        "job_title":"Cloud Engineer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":10,
+        "created_date":"2026-10-22"
+    },
+    {
+        "requisition_id":"REQ-2026-000085",
+        "manager_id":"MGR-0017",
+        "job_title":"Python Developer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":9,
+        "created_date":"2026-06-19"
+    },
+    {
+        "requisition_id":"REQ-2026-000086",
+        "manager_id":"MGR-0038",
+        "job_title":"Java Developer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":9,
+        "created_date":"2026-08-24"
+    },
+    {
+        "requisition_id":"REQ-2026-000087",
+        "manager_id":"MGR-0025",
+        "job_title":"AI Engineer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":9,
+        "created_date":"2026-07-08"
+    },
+    {
+        "requisition_id":"REQ-2026-000088",
+        "manager_id":"MGR-0008",
+        "job_title":"Data Analyst",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":9,
+        "created_date":"2026-09-18"
+    },
+    {
+        "requisition_id":"REQ-2026-000089",
+        "manager_id":"MGR-0041",
+        "job_title":"Data Analyst",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":8,
+        "created_date":"2026-09-05"
+    },
+    {
+        "requisition_id":"REQ-2026-000090",
+        "manager_id":"MGR-0020",
+        "job_title":"Data Analyst",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":9,
+        "created_date":"2026-07-22"
+    },
+    {
+        "requisition_id":"REQ-2026-000091",
+        "manager_id":"MGR-0004",
+        "job_title":"Python Developer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":11,
+        "created_date":"2026-10-09"
+    },
+    {
+        "requisition_id":"REQ-2026-000092",
+        "manager_id":"MGR-0006",
+        "job_title":"Python Developer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":11,
+        "created_date":"2026-05-23"
+    },
+    {
+        "requisition_id":"REQ-2026-000093",
+        "manager_id":"MGR-0017",
+        "job_title":"Cloud Engineer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":9,
+        "created_date":"2026-05-26"
+    },
+    {
+        "requisition_id":"REQ-2026-000094",
+        "manager_id":"MGR-0016",
+        "job_title":"Cloud Engineer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":12,
+        "created_date":"2026-08-31"
+    },
+    {
+        "requisition_id":"REQ-2026-000095",
+        "manager_id":"MGR-0009",
+        "job_title":"Data Analyst",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":8,
+        "created_date":"2026-08-29"
+    },
+    {
+        "requisition_id":"REQ-2026-000096",
+        "manager_id":"MGR-0004",
+        "job_title":"Java Developer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":9,
+        "created_date":"2026-07-07"
+    },
+    {
+        "requisition_id":"REQ-2026-000097",
+        "manager_id":"MGR-0030",
+        "job_title":"Data Analyst",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":10,
+        "created_date":"2026-07-01"
+    },
+    {
+        "requisition_id":"REQ-2026-000098",
+        "manager_id":"MGR-0022",
+        "job_title":"Data Analyst",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":12,
+        "created_date":"2026-07-14"
+    },
+    {
+        "requisition_id":"REQ-2026-000099",
+        "manager_id":"MGR-0006",
+        "job_title":"Cloud Engineer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":9,
+        "created_date":"2026-06-09"
+    },
+    {
+        "requisition_id":"REQ-2026-000100",
+        "manager_id":"MGR-0034",
+        "job_title":"Cloud Engineer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":11,
+        "created_date":"2026-07-10"
+    },
+    {
+        "requisition_id":"REQ-2026-000101",
+        "manager_id":"MGR-0047",
+        "job_title":"Data Analyst",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":11,
+        "created_date":"2026-07-24"
+    },
+    {
+        "requisition_id":"REQ-2026-000102",
+        "manager_id":"MGR-0009",
+        "job_title":"AI Engineer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":8,
+        "created_date":"2026-07-23"
+    },
+    {
+        "requisition_id":"REQ-2026-000103",
+        "manager_id":"MGR-0046",
+        "job_title":"AI Engineer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":11,
+        "created_date":"2026-09-20"
+    },
+    {
+        "requisition_id":"REQ-2026-000104",
+        "manager_id":"MGR-0021",
+        "job_title":"AI Engineer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":9,
+        "created_date":"2026-05-28"
+    },
+    {
+        "requisition_id":"REQ-2026-000105",
+        "manager_id":"MGR-0022",
+        "job_title":"Python Developer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":12,
+        "created_date":"2026-11-07"
+    },
+    {
+        "requisition_id":"REQ-2026-000106",
+        "manager_id":"MGR-0015",
+        "job_title":"Cloud Engineer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":11,
+        "created_date":"2026-06-10"
+    },
+    {
+        "requisition_id":"REQ-2026-000107",
+        "manager_id":"MGR-0001",
+        "job_title":"Python Developer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":11,
+        "created_date":"2026-09-26"
+    },
+    {
+        "requisition_id":"REQ-2026-000108",
+        "manager_id":"MGR-0021",
+        "job_title":"Cloud Engineer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":9,
+        "created_date":"2026-09-12"
+    },
+    {
+        "requisition_id":"REQ-2026-000109",
+        "manager_id":"MGR-0018",
+        "job_title":"Python Developer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":12,
+        "created_date":"2026-06-15"
+    },
+    {
+        "requisition_id":"REQ-2026-000110",
+        "manager_id":"MGR-0016",
+        "job_title":"Python Developer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":12,
+        "created_date":"2026-11-03"
+    },
+    {
+        "requisition_id":"REQ-2026-000111",
+        "manager_id":"MGR-0003",
+        "job_title":"Cloud Engineer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":12,
+        "created_date":"2026-08-07"
+    },
+    {
+        "requisition_id":"REQ-2026-000112",
+        "manager_id":"MGR-0019",
+        "job_title":"AI Engineer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":11,
+        "created_date":"2026-09-02"
+    },
+    {
+        "requisition_id":"REQ-2026-000113",
+        "manager_id":"MGR-0018",
+        "job_title":"Java Developer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":9,
+        "created_date":"2026-06-19"
+    },
+    {
+        "requisition_id":"REQ-2026-000114",
+        "manager_id":"MGR-0049",
+        "job_title":"Python Developer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":9,
+        "created_date":"2026-07-14"
+    },
+    {
+        "requisition_id":"REQ-2026-000115",
+        "manager_id":"MGR-0009",
+        "job_title":"AI Engineer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":9,
+        "created_date":"2026-08-11"
+    },
+    {
+        "requisition_id":"REQ-2026-000116",
+        "manager_id":"MGR-0044",
+        "job_title":"AI Engineer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":11,
+        "created_date":"2026-10-18"
+    },
+    {
+        "requisition_id":"REQ-2026-000117",
+        "manager_id":"MGR-0016",
+        "job_title":"Python Developer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":11,
+        "created_date":"2026-11-01"
+    },
+    {
+        "requisition_id":"REQ-2026-000118",
+        "manager_id":"MGR-0016",
+        "job_title":"Python Developer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":12,
+        "created_date":"2026-09-28"
+    },
+    {
+        "requisition_id":"REQ-2026-000119",
+        "manager_id":"MGR-0038",
+        "job_title":"AI Engineer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":12,
+        "created_date":"2026-07-16"
+    },
+    {
+        "requisition_id":"REQ-2026-000120",
+        "manager_id":"MGR-0007",
+        "job_title":"Java Developer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":11,
+        "created_date":"2026-07-30"
+    },
+    {
+        "requisition_id":"REQ-2026-000121",
+        "manager_id":"MGR-0026",
+        "job_title":"Cloud Engineer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":9,
+        "created_date":"2026-06-24"
+    },
+    {
+        "requisition_id":"REQ-2026-000122",
+        "manager_id":"MGR-0047",
+        "job_title":"Python Developer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":9,
+        "created_date":"2026-10-18"
+    },
+    {
+        "requisition_id":"REQ-2026-000123",
+        "manager_id":"MGR-0042",
+        "job_title":"Python Developer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":11,
+        "created_date":"2026-08-27"
+    },
+    {
+        "requisition_id":"REQ-2026-000124",
+        "manager_id":"MGR-0013",
+        "job_title":"Cloud Engineer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":8,
+        "created_date":"2026-11-01"
+    },
+    {
+        "requisition_id":"REQ-2026-000125",
+        "manager_id":"MGR-0050",
+        "job_title":"Cloud Engineer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":10,
+        "created_date":"2026-06-23"
+    },
+    {
+        "requisition_id":"REQ-2026-000126",
+        "manager_id":"MGR-0039",
+        "job_title":"AI Engineer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":9,
+        "created_date":"2026-05-22"
+    },
+    {
+        "requisition_id":"REQ-2026-000127",
+        "manager_id":"MGR-0045",
+        "job_title":"AI Engineer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":11,
+        "created_date":"2026-06-23"
+    },
+    {
+        "requisition_id":"REQ-2026-000128",
+        "manager_id":"MGR-0009",
+        "job_title":"Data Analyst",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":10,
+        "created_date":"2026-09-25"
+    },
+    {
+        "requisition_id":"REQ-2026-000129",
+        "manager_id":"MGR-0042",
+        "job_title":"Data Analyst",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":9,
+        "created_date":"2026-10-27"
+    },
+    {
+        "requisition_id":"REQ-2026-000130",
+        "manager_id":"MGR-0044",
+        "job_title":"Cloud Engineer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":9,
+        "created_date":"2026-06-08"
+    },
+    {
+        "requisition_id":"REQ-2026-000131",
+        "manager_id":"MGR-0007",
+        "job_title":"AI Engineer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":10,
+        "created_date":"2026-09-07"
+    },
+    {
+        "requisition_id":"REQ-2026-000132",
+        "manager_id":"MGR-0008",
+        "job_title":"Python Developer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":9,
+        "created_date":"2026-07-22"
+    },
+    {
+        "requisition_id":"REQ-2026-000133",
+        "manager_id":"MGR-0011",
+        "job_title":"Java Developer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":11,
+        "created_date":"2026-07-28"
+    },
+    {
+        "requisition_id":"REQ-2026-000134",
+        "manager_id":"MGR-0040",
+        "job_title":"Data Analyst",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":10,
+        "created_date":"2026-07-23"
+    },
+    {
+        "requisition_id":"REQ-2026-000135",
+        "manager_id":"MGR-0042",
+        "job_title":"Cloud Engineer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":12,
+        "created_date":"2026-08-17"
+    },
+    {
+        "requisition_id":"REQ-2026-000136",
+        "manager_id":"MGR-0005",
+        "job_title":"AI Engineer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":10,
+        "created_date":"2026-07-22"
+    },
+    {
+        "requisition_id":"REQ-2026-000137",
+        "manager_id":"MGR-0016",
+        "job_title":"Data Analyst",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":9,
+        "created_date":"2026-09-26"
+    },
+    {
+        "requisition_id":"REQ-2026-000138",
+        "manager_id":"MGR-0022",
+        "job_title":"Data Analyst",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":12,
+        "created_date":"2026-10-22"
+    },
+    {
+        "requisition_id":"REQ-2026-000139",
+        "manager_id":"MGR-0041",
+        "job_title":"Python Developer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":10,
+        "created_date":"2026-06-10"
+    },
+    {
+        "requisition_id":"REQ-2026-000140",
+        "manager_id":"MGR-0019",
+        "job_title":"Python Developer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":9,
+        "created_date":"2026-07-20"
+    },
+    {
+        "requisition_id":"REQ-2026-000141",
+        "manager_id":"MGR-0005",
+        "job_title":"Cloud Engineer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":8,
+        "created_date":"2026-09-11"
+    },
+    {
+        "requisition_id":"REQ-2026-000142",
+        "manager_id":"MGR-0017",
+        "job_title":"Python Developer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":8,
+        "created_date":"2026-06-22"
+    },
+    {
+        "requisition_id":"REQ-2026-000143",
+        "manager_id":"MGR-0013",
+        "job_title":"Python Developer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":11,
+        "created_date":"2026-07-03"
+    },
+    {
+        "requisition_id":"REQ-2026-000144",
+        "manager_id":"MGR-0004",
+        "job_title":"Python Developer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":10,
+        "created_date":"2026-08-17"
+    },
+    {
+        "requisition_id":"REQ-2026-000145",
+        "manager_id":"MGR-0045",
+        "job_title":"AI Engineer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":8,
+        "created_date":"2026-06-03"
+    },
+    {
+        "requisition_id":"REQ-2026-000146",
+        "manager_id":"MGR-0015",
+        "job_title":"Python Developer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":11,
+        "created_date":"2026-09-03"
+    },
+    {
+        "requisition_id":"REQ-2026-000147",
+        "manager_id":"MGR-0025",
+        "job_title":"Python Developer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":11,
+        "created_date":"2026-09-09"
+    },
+    {
+        "requisition_id":"REQ-2026-000148",
+        "manager_id":"MGR-0002",
+        "job_title":"Data Analyst",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":11,
+        "created_date":"2026-10-12"
+    },
+    {
+        "requisition_id":"REQ-2026-000149",
+        "manager_id":"MGR-0020",
+        "job_title":"Python Developer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":10,
+        "created_date":"2026-07-26"
+    },
+    {
+        "requisition_id":"REQ-2026-000150",
+        "manager_id":"MGR-0016",
+        "job_title":"Data Analyst",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":8,
+        "created_date":"2026-06-08"
+    },
+    {
+        "requisition_id":"REQ-2026-000151",
+        "manager_id":"MGR-0023",
+        "job_title":"AI Engineer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":9,
+        "created_date":"2026-09-24"
+    },
+    {
+        "requisition_id":"REQ-2026-000152",
+        "manager_id":"MGR-0016",
+        "job_title":"Cloud Engineer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":8,
+        "created_date":"2026-09-13"
+    },
+    {
+        "requisition_id":"REQ-2026-000153",
+        "manager_id":"MGR-0032",
+        "job_title":"Java Developer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":12,
+        "created_date":"2026-10-17"
+    },
+    {
+        "requisition_id":"REQ-2026-000154",
+        "manager_id":"MGR-0019",
+        "job_title":"Cloud Engineer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":9,
+        "created_date":"2026-09-15"
+    },
+    {
+        "requisition_id":"REQ-2026-000155",
+        "manager_id":"MGR-0013",
+        "job_title":"Data Analyst",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":12,
+        "created_date":"2026-08-19"
+    },
+    {
+        "requisition_id":"REQ-2026-000156",
+        "manager_id":"MGR-0009",
+        "job_title":"Data Analyst",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":11,
+        "created_date":"2026-10-09"
+    },
+    {
+        "requisition_id":"REQ-2026-000157",
+        "manager_id":"MGR-0048",
+        "job_title":"Java Developer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":12,
+        "created_date":"2026-08-19"
+    },
+    {
+        "requisition_id":"REQ-2026-000158",
+        "manager_id":"MGR-0027",
+        "job_title":"Data Analyst",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":11,
+        "created_date":"2026-05-19"
+    },
+    {
+        "requisition_id":"REQ-2026-000159",
+        "manager_id":"MGR-0001",
+        "job_title":"AI Engineer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":11,
+        "created_date":"2026-07-11"
+    },
+    {
+        "requisition_id":"REQ-2026-000160",
+        "manager_id":"MGR-0017",
+        "job_title":"Python Developer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":11,
+        "created_date":"2026-10-16"
+    },
+    {
+        "requisition_id":"REQ-2026-000161",
+        "manager_id":"MGR-0009",
+        "job_title":"Python Developer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":11,
+        "created_date":"2026-07-12"
+    },
+    {
+        "requisition_id":"REQ-2026-000162",
+        "manager_id":"MGR-0047",
+        "job_title":"Python Developer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":8,
+        "created_date":"2026-06-08"
+    },
+    {
+        "requisition_id":"REQ-2026-000163",
+        "manager_id":"MGR-0006",
+        "job_title":"Data Analyst",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":10,
+        "created_date":"2026-11-09"
+    },
+    {
+        "requisition_id":"REQ-2026-000164",
+        "manager_id":"MGR-0010",
+        "job_title":"Java Developer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":12,
+        "created_date":"2026-07-19"
+    },
+    {
+        "requisition_id":"REQ-2026-000165",
+        "manager_id":"MGR-0040",
+        "job_title":"Cloud Engineer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":10,
+        "created_date":"2026-09-01"
+    },
+    {
+        "requisition_id":"REQ-2026-000166",
+        "manager_id":"MGR-0012",
+        "job_title":"Python Developer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":8,
+        "created_date":"2026-07-09"
+    },
+    {
+        "requisition_id":"REQ-2026-000167",
+        "manager_id":"MGR-0029",
+        "job_title":"Java Developer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":10,
+        "created_date":"2026-05-16"
+    },
+    {
+        "requisition_id":"REQ-2026-000168",
+        "manager_id":"MGR-0003",
+        "job_title":"Java Developer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":9,
+        "created_date":"2026-08-08"
+    },
+    {
+        "requisition_id":"REQ-2026-000169",
+        "manager_id":"MGR-0038",
+        "job_title":"Cloud Engineer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":9,
+        "created_date":"2026-11-09"
+    },
+    {
+        "requisition_id":"REQ-2026-000170",
+        "manager_id":"MGR-0029",
+        "job_title":"AI Engineer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":10,
+        "created_date":"2026-09-23"
+    },
+    {
+        "requisition_id":"REQ-2026-000171",
+        "manager_id":"MGR-0031",
+        "job_title":"Data Analyst",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":9,
+        "created_date":"2026-10-01"
+    },
+    {
+        "requisition_id":"REQ-2026-000172",
+        "manager_id":"MGR-0024",
+        "job_title":"Data Analyst",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":9,
+        "created_date":"2026-07-28"
+    },
+    {
+        "requisition_id":"REQ-2026-000173",
+        "manager_id":"MGR-0007",
+        "job_title":"Cloud Engineer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":9,
+        "created_date":"2026-07-07"
+    },
+    {
+        "requisition_id":"REQ-2026-000174",
+        "manager_id":"MGR-0016",
+        "job_title":"Java Developer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":9,
+        "created_date":"2026-05-22"
+    },
+    {
+        "requisition_id":"REQ-2026-000175",
+        "manager_id":"MGR-0014",
+        "job_title":"Java Developer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":12,
+        "created_date":"2026-07-12"
+    },
+    {
+        "requisition_id":"REQ-2026-000176",
+        "manager_id":"MGR-0040",
+        "job_title":"AI Engineer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":10,
+        "created_date":"2026-06-07"
+    },
+    {
+        "requisition_id":"REQ-2026-000177",
+        "manager_id":"MGR-0006",
+        "job_title":"Data Analyst",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":9,
+        "created_date":"2026-06-13"
+    },
+    {
+        "requisition_id":"REQ-2026-000178",
+        "manager_id":"MGR-0037",
+        "job_title":"Cloud Engineer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":10,
+        "created_date":"2026-08-25"
+    },
+    {
+        "requisition_id":"REQ-2026-000179",
+        "manager_id":"MGR-0046",
+        "job_title":"Python Developer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":9,
+        "created_date":"2026-08-29"
+    },
+    {
+        "requisition_id":"REQ-2026-000180",
+        "manager_id":"MGR-0040",
+        "job_title":"Python Developer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":8,
+        "created_date":"2026-09-23"
+    },
+    {
+        "requisition_id":"REQ-2026-000181",
+        "manager_id":"MGR-0047",
+        "job_title":"Data Analyst",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":9,
+        "created_date":"2026-09-09"
+    },
+    {
+        "requisition_id":"REQ-2026-000182",
+        "manager_id":"MGR-0005",
+        "job_title":"AI Engineer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":11,
+        "created_date":"2026-06-10"
+    },
+    {
+        "requisition_id":"REQ-2026-000183",
+        "manager_id":"MGR-0005",
+        "job_title":"Java Developer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":8,
+        "created_date":"2026-06-13"
+    },
+    {
+        "requisition_id":"REQ-2026-000184",
+        "manager_id":"MGR-0037",
+        "job_title":"Java Developer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":12,
+        "created_date":"2026-06-03"
+    },
+    {
+        "requisition_id":"REQ-2026-000185",
+        "manager_id":"MGR-0010",
+        "job_title":"Data Analyst",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":12,
+        "created_date":"2026-10-10"
+    },
+    {
+        "requisition_id":"REQ-2026-000186",
+        "manager_id":"MGR-0031",
+        "job_title":"Data Analyst",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":9,
+        "created_date":"2026-05-27"
+    },
+    {
+        "requisition_id":"REQ-2026-000187",
+        "manager_id":"MGR-0010",
+        "job_title":"Data Analyst",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":8,
+        "created_date":"2026-07-22"
+    },
+    {
+        "requisition_id":"REQ-2026-000188",
+        "manager_id":"MGR-0030",
+        "job_title":"Java Developer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":8,
+        "created_date":"2026-10-19"
+    },
+    {
+        "requisition_id":"REQ-2026-000189",
+        "manager_id":"MGR-0034",
+        "job_title":"Java Developer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":11,
+        "created_date":"2026-07-08"
+    },
+    {
+        "requisition_id":"REQ-2026-000190",
+        "manager_id":"MGR-0021",
+        "job_title":"Data Analyst",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":8,
+        "created_date":"2026-06-04"
+    },
+    {
+        "requisition_id":"REQ-2026-000191",
+        "manager_id":"MGR-0043",
+        "job_title":"Python Developer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":12,
+        "created_date":"2026-07-05"
+    },
+    {
+        "requisition_id":"REQ-2026-000192",
+        "manager_id":"MGR-0025",
+        "job_title":"Java Developer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":12,
+        "created_date":"2026-07-12"
+    },
+    {
+        "requisition_id":"REQ-2026-000193",
+        "manager_id":"MGR-0022",
+        "job_title":"Python Developer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":6,
+        "max_salary_lpa":9,
+        "created_date":"2026-10-08"
+    },
+    {
+        "requisition_id":"REQ-2026-000194",
+        "manager_id":"MGR-0001",
+        "job_title":"Cloud Engineer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":8,
+        "created_date":"2026-11-07"
+    },
+    {
+        "requisition_id":"REQ-2026-000195",
+        "manager_id":"MGR-0047",
+        "job_title":"Cloud Engineer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":8,
+        "created_date":"2026-09-04"
+    },
+    {
+        "requisition_id":"REQ-2026-000196",
+        "manager_id":"MGR-0044",
+        "job_title":"Python Developer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":12,
+        "created_date":"2026-09-01"
+    },
+    {
+        "requisition_id":"REQ-2026-000197",
+        "manager_id":"MGR-0049",
+        "job_title":"Cloud Engineer",
+        "department":"IT",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":12,
+        "created_date":"2026-09-07"
+    },
+    {
+        "requisition_id":"REQ-2026-000198",
+        "manager_id":"MGR-0025",
+        "job_title":"AI Engineer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":9,
+        "created_date":"2026-06-18"
+    },
+    {
+        "requisition_id":"REQ-2026-000199",
+        "manager_id":"MGR-0043",
+        "job_title":"Java Developer",
+        "department":"Engineering",
+        "status":"APPROVED",
+        "min_salary_lpa":5,
+        "max_salary_lpa":11,
+        "created_date":"2026-09-01"
+    },
+    {
+        "requisition_id":"REQ-2026-000200",
+        "manager_id":"MGR-0006",
+        "job_title":"Python Developer",
+        "department":"Analytics",
+        "status":"APPROVED",
+        "min_salary_lpa":4,
+        "max_salary_lpa":10,
+        "created_date":"2026-06-25"
+    }
+]

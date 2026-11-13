@@ -1,0 +1,302 @@
+[
+    {
+        "manager_id":"MGR-0001",
+        "manager_name":"Barkha Gera",
+        "email":"manager1@company.com",
+        "department":"Finance"
+    },
+    {
+        "manager_id":"MGR-0002",
+        "manager_name":"Wyatt Karpe",
+        "email":"manager2@company.com",
+        "department":"Analytics"
+    },
+    {
+        "manager_id":"MGR-0003",
+        "manager_name":"Aarnav Deep",
+        "email":"manager3@company.com",
+        "department":"Finance"
+    },
+    {
+        "manager_id":"MGR-0004",
+        "manager_name":"Rushil Hari",
+        "email":"manager4@company.com",
+        "department":"HR"
+    },
+    {
+        "manager_id":"MGR-0005",
+        "manager_name":"Hredhaan Hari",
+        "email":"manager5@company.com",
+        "department":"IT"
+    },
+    {
+        "manager_id":"MGR-0006",
+        "manager_name":"Yashoda D\u2019Alia",
+        "email":"manager6@company.com",
+        "department":"HR"
+    },
+    {
+        "manager_id":"MGR-0007",
+        "manager_name":"Shravya Ahluwalia",
+        "email":"manager7@company.com",
+        "department":"HR"
+    },
+    {
+        "manager_id":"MGR-0008",
+        "manager_name":"Jhalak Dhaliwal",
+        "email":"manager8@company.com",
+        "department":"HR"
+    },
+    {
+        "manager_id":"MGR-0009",
+        "manager_name":"Vaishnavi Bhandari",
+        "email":"manager9@company.com",
+        "department":"IT"
+    },
+    {
+        "manager_id":"MGR-0010",
+        "manager_name":"Manbir Din",
+        "email":"manager10@company.com",
+        "department":"Analytics"
+    },
+    {
+        "manager_id":"MGR-0011",
+        "manager_name":"Dhruv Chokshi",
+        "email":"manager11@company.com",
+        "department":"HR"
+    },
+    {
+        "manager_id":"MGR-0012",
+        "manager_name":"Yochana Varghese",
+        "email":"manager12@company.com",
+        "department":"IT"
+    },
+    {
+        "manager_id":"MGR-0013",
+        "manager_name":"Girish Goel",
+        "email":"manager13@company.com",
+        "department":"HR"
+    },
+    {
+        "manager_id":"MGR-0014",
+        "manager_name":"Omaja Chakraborty",
+        "email":"manager14@company.com",
+        "department":"HR"
+    },
+    {
+        "manager_id":"MGR-0015",
+        "manager_name":"Tanmayi Bath",
+        "email":"manager15@company.com",
+        "department":"Finance"
+    },
+    {
+        "manager_id":"MGR-0016",
+        "manager_name":"Libni Wable",
+        "email":"manager16@company.com",
+        "department":"Analytics"
+    },
+    {
+        "manager_id":"MGR-0017",
+        "manager_name":"Dalbir Bora",
+        "email":"manager17@company.com",
+        "department":"IT"
+    },
+    {
+        "manager_id":"MGR-0018",
+        "manager_name":"Gopal Mishra",
+        "email":"manager18@company.com",
+        "department":"HR"
+    },
+    {
+        "manager_id":"MGR-0019",
+        "manager_name":"Abdul Chaudhuri",
+        "email":"manager19@company.com",
+        "department":"HR"
+    },
+    {
+        "manager_id":"MGR-0020",
+        "manager_name":"Madhavi Kannan",
+        "email":"manager20@company.com",
+        "department":"Analytics"
+    },
+    {
+        "manager_id":"MGR-0021",
+        "manager_name":"Varsha Borde",
+        "email":"manager21@company.com",
+        "department":"IT"
+    },
+    {
+        "manager_id":"MGR-0022",
+        "manager_name":"Jasmit Barman",
+        "email":"manager22@company.com",
+        "department":"HR"
+    },
+    {
+        "manager_id":"MGR-0023",
+        "manager_name":"Abdul Srinivasan",
+        "email":"manager23@company.com",
+        "department":"Analytics"
+    },
+    {
+        "manager_id":"MGR-0024",
+        "manager_name":"Wazir Balakrishnan",
+        "email":"manager24@company.com",
+        "department":"Engineering"
+    },
+    {
+        "manager_id":"MGR-0025",
+        "manager_name":"Daksha Varty",
+        "email":"manager25@company.com",
+        "department":"IT"
+    },
+    {
+        "manager_id":"MGR-0026",
+        "manager_name":"Brijesh Morar",
+        "email":"manager26@company.com",
+        "department":"Analytics"
+    },
+    {
+        "manager_id":"MGR-0027",
+        "manager_name":"Akshay Dar",
+        "email":"manager27@company.com",
+        "department":"IT"
+    },
+    {
+        "manager_id":"MGR-0028",
+        "manager_name":"Brinda Bedi",
+        "email":"manager28@company.com",
+        "department":"Finance"
+    },
+    {
+        "manager_id":"MGR-0029",
+        "manager_name":"Yamini Atwal",
+        "email":"manager29@company.com",
+        "department":"HR"
+    },
+    {
+        "manager_id":"MGR-0030",
+        "manager_name":"Yoshita Mand",
+        "email":"manager30@company.com",
+        "department":"Analytics"
+    },
+    {
+        "manager_id":"MGR-0031",
+        "manager_name":"Anmol Sharma",
+        "email":"manager31@company.com",
+        "department":"Finance"
+    },
+    {
+        "manager_id":"MGR-0032",
+        "manager_name":"Sai Mutti",
+        "email":"manager32@company.com",
+        "department":"Engineering"
+    },
+    {
+        "manager_id":"MGR-0033",
+        "manager_name":"Ati Kurian",
+        "email":"manager33@company.com",
+        "department":"IT"
+    },
+    {
+        "manager_id":"MGR-0034",
+        "manager_name":"Yoshita Ranganathan",
+        "email":"manager34@company.com",
+        "department":"IT"
+    },
+    {
+        "manager_id":"MGR-0035",
+        "manager_name":"Ishita Gokhale",
+        "email":"manager35@company.com",
+        "department":"HR"
+    },
+    {
+        "manager_id":"MGR-0036",
+        "manager_name":"Yachana Doshi",
+        "email":"manager36@company.com",
+        "department":"HR"
+    },
+    {
+        "manager_id":"MGR-0037",
+        "manager_name":"Yutika Manne",
+        "email":"manager37@company.com",
+        "department":"Engineering"
+    },
+    {
+        "manager_id":"MGR-0038",
+        "manager_name":"Max Anand",
+        "email":"manager38@company.com",
+        "department":"IT"
+    },
+    {
+        "manager_id":"MGR-0039",
+        "manager_name":"Tripti Loke",
+        "email":"manager39@company.com",
+        "department":"IT"
+    },
+    {
+        "manager_id":"MGR-0040",
+        "manager_name":"Jatin Sura",
+        "email":"manager40@company.com",
+        "department":"Analytics"
+    },
+    {
+        "manager_id":"MGR-0041",
+        "manager_name":"Manbir Doshi",
+        "email":"manager41@company.com",
+        "department":"HR"
+    },
+    {
+        "manager_id":"MGR-0042",
+        "manager_name":"Yatan Badami",
+        "email":"manager42@company.com",
+        "department":"Analytics"
+    },
+    {
+        "manager_id":"MGR-0043",
+        "manager_name":"Yadavi Prabhu",
+        "email":"manager43@company.com",
+        "department":"Analytics"
+    },
+    {
+        "manager_id":"MGR-0044",
+        "manager_name":"Qasim Ravel",
+        "email":"manager44@company.com",
+        "department":"Finance"
+    },
+    {
+        "manager_id":"MGR-0045",
+        "manager_name":"Daksh Munshi",
+        "email":"manager45@company.com",
+        "department":"IT"
+    },
+    {
+        "manager_id":"MGR-0046",
+        "manager_name":"Rohan Apte",
+        "email":"manager46@company.com",
+        "department":"HR"
+    },
+    {
+        "manager_id":"MGR-0047",
+        "manager_name":"Jagrati Raghavan",
+        "email":"manager47@company.com",
+        "department":"Engineering"
+    },
+    {
+        "manager_id":"MGR-0048",
+        "manager_name":"Dev Bains",
+        "email":"manager48@company.com",
+        "department":"Analytics"
+    },
+    {
+        "manager_id":"MGR-0049",
+        "manager_name":"Theodore Swaminathan",
+        "email":"manager49@company.com",
+        "department":"Engineering"
+    },
+    {
+        "manager_id":"MGR-0050",
+        "manager_name":"Netra Bhatt",
+        "email":"manager50@company.com",
+        "department":"IT"
+    }
+]

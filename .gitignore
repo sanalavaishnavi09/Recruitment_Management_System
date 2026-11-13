@@ -1,0 +1,36 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Python environment
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Environment variables and secrets
+.env
+.env.*
+
+# IDE settings
+.vscode/
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
+
+# Database backups and temporary databases
+database/*backup*.db
+database/*before_*.db
+database/*test*.db
+*.db-journal
+
+# Ground truth backup files
+ground_truth/*before*.csv
+
+# Temporary backup files
+*.bak
+*.tmp
