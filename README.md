@@ -65,6 +65,8 @@ Recruitment_Management_System/
 ├── generator/
 |   └──generate_data.py
 ├── create_database.py
+├── test_scheduling.py
+├── test_offer_approval.py
 ├── requirements.txt
 └── README.md
 ```
